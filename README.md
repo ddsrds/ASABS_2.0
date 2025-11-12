@@ -1,7 +1,4 @@
-## README para o Software ASABS 🌟
-
-### Visão Geral 📖
-O software ASABS é projetado para ajudar usuários em tarefas de bioinformática, fornecendo uma interface simplificada para várias operações, como instalação, download de programas necessários e solução de problemas. Este README guiará você pelo processo de instalação, uso e etapas de solução de problemas.
+## **Automatic Search and Assembly of Biological Sequences - ASABS_2.0 🧬**
 
 ---
 
@@ -17,7 +14,7 @@ O software ASABS é projetado para ajudar usuários em tarefas de bioinformátic
 1. **Baixar o Pacote ASABS** 📥
    - Localize o arquivo chamado `ASABS-PACK.zip` na sua pasta de Downloads.
   
-2. **Extrair o Pacote** 📂
+2. **Extrair o Pacote** 📄
    - Clique com o botão direito no arquivo e selecione "Extrair Aqui" para descompactar o conteúdo.
    - Alternativamente, use o terminal:
      ```bash
@@ -25,7 +22,7 @@ O software ASABS é projetado para ajudar usuários em tarefas de bioinformátic
      cd ASABS-PACK
      ```
 
-3. **Verificar Conteúdo** ✅
+3. **Verificar Conteúdo** 📦
    - Certifique-se de que a pasta extraída contém:
      - `ASABS` (arquivo executável)
      - `Instruções De Suporte` (instruções de suporte)
@@ -43,12 +40,12 @@ O software ASABS é projetado para ajudar usuários em tarefas de bioinformátic
 
 ---
 
-### Instruções de Uso 📝
-- **Preparar Arquivos de Entrada** 📁
+### Instruções de Uso 📋
+- **Preparar Arquivos de Entrada** 🗃️
   - Mova os arquivos necessários (arquivo de referência e arquivos de fragmentos) para a pasta `ASABS-PACK`.
   - Certifique-se de que o arquivo de referência esteja no formato `.fasta`. Se baixado como `.txt`, converta-o para `.fasta`.
 
-- **Requisitos de Arquivo** 📊
+- **Requisitos de Arquivo** 🗂️
   - O arquivo de referência deve ter comprimento adequado; sequências curtas podem levar a comparações ineficazes.
 
 ---
@@ -60,11 +57,11 @@ O software ASABS é projetado para ajudar usuários em tarefas de bioinformátic
   3. **Senha Incorreta**: Certifique-se de digitar a senha correta do sudo quando solicitado.
   4. **Permissões de Arquivo**: Garanta que o programa ASABS tenha permissão para criar arquivos no diretório inicial do usuário.
 
-- **Mensagens de Erro**: Se você encontrar erros durante a instalação ou execução, consulte o documento `Instruções De Suporte` para etapas detalhadas de solução de problemas.
+- **Mensagens de Erro**: Se você encontrar erros durante a instalação ou execução, consulte o documento `Support_Menu` para etapas detalhadas de solução de problemas.
 
 ---
 
-### Suporte 🤝
+### Suporte ⛑️
 Para ajuda adicional, visite a página de suporte online:
 - [Suporte ASABS](https://sites.google.com/view/bioinfoasabs/suporte)
 
