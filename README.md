@@ -68,6 +68,3 @@ Para ajuda adicional, visite a página de suporte online:
 - [Suporte ASABS](https://sites.google.com/view/bioinfoasabs/suporte)
 
 ---
-
-### Conclusão 🎉
-Este README fornece os passos essenciais para instalar e usar o software ASABS de forma eficaz. Para mais assistência, consulte as instruções de suporte ou entre em contato com a equipe de suporte. Aproveite o uso do ASABS para suas tarefas de bioinformática!
