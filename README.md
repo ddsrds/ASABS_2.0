@@ -13,7 +13,7 @@ O programa "ASABS – Automatic Search and Assembly of Biological Sequences" é 
 ---
 
 ### Instruções de Instalação 🛠️
-1. **Baixar o Pacote ASABS** 📥
+1. **Baixar o Pacote ASABS-PACK** 📥
    - Localize o arquivo chamado `ASABS-PACK.zip` na sua pasta de Downloads.
   
 2. **Extrair o Pacote** 📄
