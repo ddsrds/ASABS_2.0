@@ -66,7 +66,7 @@ O software ASABS é projetado para ajudar usuários em tarefas de bioinformátic
 
 ### Suporte 🤝
 Para ajuda adicional, visite a página de suporte online:
-- [Página de Suporte ASABS](https://sites.google.com/view/bioinfoasabs)
+- [Suporte ASABS]([https://sites.google.com/view/bioinfoasabs](https://sites.google.com/view/bioinfoasabs/suporte))
 
 ---
 
