@@ -1,5 +1,7 @@
 ## **Automatic Search and Assembly of Biological Sequences - ASABS_2.0 🧬**
 
+O programa "ASABS – Automatic Search and Assembly of Biological Sequences" é uma ferramenta desenvolvida para automatizar e otimizar a análise de sequências biológicas, com especial foco em genômica e bioinformática. Sua principal função é realizar a busca eficiente por sequências biológicas específicas em grandes bancos de dados e, em seguida, montá-las de forma precisa a partir de fragmentos menores, permitindo a reconstrução de genomas ou outras sequências biológicas de interesse.
+
 ---
 
 ### Índice 📚
