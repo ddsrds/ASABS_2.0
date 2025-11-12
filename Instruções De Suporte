@@ -1,0 +1,44 @@
+=====================================
+Instruções Para o Programa "ASABS" !
+=====================================
+
+Antes de seguir as instruções abaixo, verifique se o perfil de usuário tem privilégios de administrador e se há uma conexão estável com a internet. Em seguida, siga o passo a passo com atenção para evitar erros durante a execução do processo.
+
+1 - Localize a pasta "ASABS-PACK.zip", que geralmente, ao ser baixada, fica na pasta de Downloads do seu computador.
+
+	1.1 - Após encontrá-la, clique com o botão direito e clique em "extrair aqui" para descompactar a pasta e seus arquivos.
+
+	1.2 - embora não seja tão prático para algumas pessoas, também pode-se abrir o terminal e usar o comando "tar zxvf (nome da pasta que deseja extrair os arquivos)" e depois usar o comando "cd o (nome da pasta extraída)" para extrair e abrir a pasta sem precisar sair ou fechar o terminal.
+
+2 - Abra a pasta e verifique se ela contém três arquivos: o arquivo executável chamado "ASABS", um arquivo de texto chamado "Instruções De Suporte" e um arquivo executável chamado "Support_Menu" para suporte offline.
+
+3 - Dentro dessa mesma pasta, abra um terminal diretamente neste diretório. Para isso, clique com o botão direito do mouse em uma área em branco da janela da pasta e selecione **"Abrir no terminal"**.
+
+4 - No terminal, digite o comando "./ASABS -h" para exibir o menu de comandos do programa.
+
+5 - Agora, mova para a pasta "ASABS-PACK" os arquivos que serão usados pelo programa, que incluem o arquivo de referência e o arquivo de fragmentos.
+
+   	5.1 - O arquivo de referência, ao ser baixado do banco de dados, provavelmente estará em formato de texto (.txt). Não se esqueça de convertê-lo para o formato ".fasta".
+
+   	5.2 - Ao escolher o arquivo de referência, considere seu tamanho e o comprimento da sequência. Se a sequência for muito curta, o programa pode não conseguir utilizá-lo, pois pode faltar informação para realizar a comparação durante a execução.
+
+6 - Com os arquivos na pasta do programa, com o terminal ainda aberto, digite o comando:
+	"./ASABS -f (arquivo de fragmentos.fasta) -r (arquivo de referência.fasta) -o (arquivo de saída.fasta)"
+
+	6.1 - Ao escolher o nome do arquivo de saída, lembre-se de incluir a extensão ".fasta" ao nome escolhido.
+
+7 - Se o processo ocorrer corretamente, você verá a seguinte mensagem:
+	"Some needed programs are not installed yet." ASABS is going to install them for you! ;)**  
+
+8 - O programa solicitará a senha do seu usuário.
+
+9 - Como a senha não será visível enquanto é digitada, preencha-a com atenção e pressione **Enter**.
+
+10 - Aguarde enquanto o programa "ASABS" instala os programas auxiliares necessários.
+
+11 - Quando todos os programas auxiliares estiverem instalados, execute novamente o comando da etapa 6.
+
+12 - Ao final da execução, o programa gerará dois arquivos: "saída.fasta" e "saida.fasta.fasta", que indicam que o programa foi executado com sucesso. O nome "saída" se refere ao nome escolhido para o arquivo durante a execução.
+
+13 - Caso algum erro ocorra durante a instalação dos programas, será necessário instalar manualmente cada um deles. Acesse a área de suporte no site para orientações.
+	Link para o site: https://sites.google.com/view/bioinfoasabs/in%C3%ADcio
